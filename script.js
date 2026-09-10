@@ -32,3 +32,4 @@ document
     <p><strong>Total Gross Pay:</strong> $${totalPay.toFixed(2)}</p>
   `;
   });
+  // Added
